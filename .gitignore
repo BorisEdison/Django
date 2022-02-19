@@ -3,3 +3,4 @@
 *.ldf
 bin
 lib
+settings.py
