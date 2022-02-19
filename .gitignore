@@ -3,4 +3,4 @@
 *.ldf
 bin
 lib
-settings.py
+stc/trydjango/settings.py
