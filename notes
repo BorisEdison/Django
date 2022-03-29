@@ -1,0 +1,17 @@
+pip install --user virtualenv
+
+python -m virtualenv env
+
+env\scripts\activate
+
+pip install django
+
+django-admin
+
+django-admin startproject mysite
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py startapp base
