@@ -15,3 +15,9 @@ python manage.py makemigrations
 python manage.py migrate
 
 python manage.py startapp base
+
+python manage.py createsuperuser
+
+wsgi - web server gateway interface
+
+asgi - asychronous calls
